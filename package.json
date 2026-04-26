@@ -1,6 +1,6 @@
 {
   "name": "envfence",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Type-safe environment variable parsing with a chainable schema, dotenv-style file loading, and great error messages. Zero deps. ~2KB gzipped.",
   "type": "module",
   "sideEffects": false,
